@@ -1,0 +1,26 @@
+body {
+    color: #414141;
+    background-color: #EEEEEE;
+  }
+
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
+
+p{
+    text-align: right;
+}
+
+em {
+    font-weight: bold;
+    font-style: normal;
+}
